@@ -1,3 +1,5 @@
+Visit my portfolio here: https://kcig88.github.io/Homework-016-portfolio/
+
 Unit 08 Project 1 Homework: Professional Materials
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
